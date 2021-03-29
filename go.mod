@@ -1,4 +1,4 @@
-module gopkg.in/tucnak/telebot.v2
+module gopkg.in/duongbaoduy/telebot.v2
 
 go 1.13
 
